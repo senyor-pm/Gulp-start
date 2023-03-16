@@ -1,1 +1,3 @@
 # Gulp-start
+-scripts
+-styles
